@@ -1,8 +1,10 @@
 # designpatterns
-The samples of GOF design patterns with C#
+
+The samples of design patterns with C#
 
 
 ----
+
 ### Creational
 
 * [Abstract Factory](https://github.com/halukaksoy/designpatterns/tree/master/AbstractFactory)
@@ -10,3 +12,8 @@ The samples of GOF design patterns with C#
 * [Factory Method](https://github.com/halukaksoy/designpatterns/tree/master/FactoryMethod)
 
 * [Builder](https://github.com/halukaksoy/designpatterns/tree/master/Builder)
+
+* [Singleton](https://github.com/halukaksoy/designpatterns/tree/master/Singleton)
+
+
+----
