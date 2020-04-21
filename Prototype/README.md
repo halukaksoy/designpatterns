@@ -1,6 +1,5 @@
 # Prototype
 
-----
 ### Live Demo
 
 [DotNetFiddle](https://dotnetfiddle.net/sM9MRD)
