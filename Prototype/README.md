@@ -1,6 +1,11 @@
 # Prototype
 
 ----
+### Live Demo
+
+<iframe width="100%" height="475" src="https://dotnetfiddle.net/Widget/sM9MRD" frameborder="0"></iframe>
+
+----
 ### Definition
 
 Specify the kind of objects to create using a prototypical instance, 
