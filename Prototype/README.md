@@ -1,20 +1,20 @@
-# Singleton
+# Prototype
 
 ----
 ### Definition
 
-Ensure a class has only one instance and provide a global point of access to it.
-
+Specify the kind of objects to create using a prototypical instance, 
+and create new objects by copying this prototype.
 
 ----
 ### UML class diagram
-![](https://www.dofactory.com/images/diagrams/net/singleton.gif)
+![](https://www.dofactory.com/images/diagrams/net/prototype.gif)
 
 ### Frequency of Use:
-![](https://www.dofactory.com/images/use_medium_high.gif) Medium high
+![](https://www.dofactory.com/images/use_medium.gif) Medium
 
 ----
 ### Resources
 
-[DoFactory](https://www.dofactory.com/net/singleton-design-pattern)
+[DoFactory](https://www.dofactory.com/net/prototype-design-pattern)
 
