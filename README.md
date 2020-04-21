@@ -5,7 +5,7 @@ The samples of design patterns with C#
 
 ----
 
-### Creational
+### Creational Patterns
 
 * [Abstract Factory](https://github.com/halukaksoy/designpatterns/tree/master/AbstractFactory)
 
@@ -15,5 +15,8 @@ The samples of design patterns with C#
 
 * [Singleton](https://github.com/halukaksoy/designpatterns/tree/master/Singleton)
 
+* [Prototype](https://github.com/halukaksoy/designpatterns/tree/master/Prototype)
 
 ----
+
+### Structural Patterns
