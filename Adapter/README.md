@@ -14,8 +14,8 @@ Adapter lets classes work together that couldn't otherwise because of incompatib
 ### UML class diagram
 ![](https://www.dofactory.com/images/diagrams/net/adapter.gif)
 
-### Frequency of UseMedium high
-![](https://www.dofactory.com/images/use_medium_high.gif) High
+### Frequency of Use
+![](https://www.dofactory.com/images/use_medium_high.gif) Medium high
 
 ----
 ### Resources
