@@ -20,3 +20,5 @@ The samples of design patterns with C#
 ----
 
 ### Structural Patterns
+
+* [Adapter](https://github.com/halukaksoy/designpatterns/tree/master/Adapter)
